@@ -21,6 +21,14 @@ In this project, you will perform an exploratory analysis on data provided by Mo
 * A text editor, like _VS Code_ or _Atom_.
 * A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
 
+### **How the program works:**
+The code takes in raw input to create an interactive experience that answers questions about the dataset. The experience is interactive as the user's input determines the output. There are four questions that will change the answers:
+
+* Which city would you like to review? Chicago, New York City or Washington?
+* Which month would you like to view? January, February, March, April, June or 'all'?
+* What day would you like to see? Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or 'all'?
+
+The answers to the questions above will determine the city and timeframe on which you'll do data analysis. After filtering the dataset, users will see the statistical result of the data, and choose to start again or exit.
 ## Evaluated Statistics
 ### 1 Popular times of travel (i.e., month, day of week and hour of day)
 ### 2 Popular stations and trip
