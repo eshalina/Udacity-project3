@@ -20,3 +20,9 @@ In this project, you will perform an exploratory analysis on data provided by Mo
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
 * A text editor, like _VS Code_ or _Atom_.
 * A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
+
+## Evaluated Statistics
+### 1 Popular times of travel (i.e., month, day of week and hour of day)
+### 2 Popular stations and trip
+### 3 Trip duration
+### 4 User info (counts of each user type)
