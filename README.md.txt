@@ -1,4 +1,4 @@
-# Udacity-project3
+# Explore-US-Bikeshare-Data
 
 ## 01 Aug'20
 
