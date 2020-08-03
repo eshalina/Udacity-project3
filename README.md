@@ -1,6 +1,6 @@
 # Explore-US-Bikeshare-Data
 
-## 01 Aug'20
+## 02 Aug'20
 
 ## **Overview:**
 In this project, you will perform an exploratory analysis on data provided by Motivate, a bike-share system provider for many major cities in the United States. You will compare the system usage between three large cities: New York City, Chicago, and Washington, DC. You will also see if there are any differences within each system for those users that are registered such regular users, short-term and casual users.
