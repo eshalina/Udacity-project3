@@ -3,7 +3,7 @@
 ## 01 Aug'20
 
 ## **Overview:**
-In this project, you will perform an exploratory analysis on data provided by Motivate, a bike-share system provider for many major cities in the United States. You will compare the system usage between three large cities: New York City, Chicago, and Washington, DC. You will also see if there are any differences within each system for those users that are registered, regular users and those users that are short-term, casual users.
+In this project, you will perform an exploratory analysis on data provided by Motivate, a bike-share system provider for many major cities in the United States. You will compare the system usage between three large cities: New York City, Chicago, and Washington, DC. You will also see if there are any differences within each system for those users that are registered such regular users, short-term and casual users.
 ## **Files used:**
 * bikeshare_2.py
 
@@ -18,8 +18,8 @@ In this project, you will perform an exploratory analysis on data provided by Mo
 
     ## **Softwares needed:**
 * _Python 3, NumPy,_ and _Pandas_ installed using _Anaconda_
-* A text editor, like _VS Code_ or _Atom_.
-* A terminal application (_Terminal_ on _Mac_ and _Linux_ or _Cygwin_ on _Windows_).
+* A text editor, like VS Code or Atom
+* A terminal application (i,e., Ma, Linux, Windows)
 
 ### **How the program works:**
 The code takes in raw input to create an interactive experience that answers questions about the dataset. The experience is interactive as the user's input determines the output. There are four questions that will change the answers:
